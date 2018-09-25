@@ -36,11 +36,11 @@ Contents:
    :caption: Data, Analytics & Services
    :maxdepth: 2
 
-..
+
    services/data_storage
    services/data_recovery
    services/data_transfer
-   sevices/data_management
+   services/data_management
    services/object_storage
 
    
@@ -48,7 +48,7 @@ Contents:
    :caption: Tools
    :maxdepth: 2
 
-..
+
    tools/containers
    tools/continous_integration
    tools/interactive_supercomputing
